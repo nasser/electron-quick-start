@@ -1,3 +1,18 @@
+# Electron/P5.js Quick Start
+
+A merger of [p5.js](https://p5js.org/)'s empty example and [electron-quick-start](https://github.com/electron/electron-quick-start), providing the starting point for combined visual and computational JavaScript projects. Developed for [Large Systems](http://nas.sr/teaching/2017/large-systems/) at [Parsons](http://www.newschool.edu/parsons/).
+
+Edit `sketch.js` and optionally `index.html` to write your sketch. To run, do the following in your terminal
+
+```
+cd path/to/sketch
+electron .
+```
+
+Where `path/to/sketch` is the full path to the sketch directory on your machine.
+
+The original README follows.
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
